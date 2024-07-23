@@ -1,4 +1,4 @@
-# Harshit Kumar Singh
+# Harshit Kumar Singhai
 
 ### Hi there! 👋
 
