@@ -1,4 +1,4 @@
-# Harshit Kumar Singhai
+# Harshit Kumar Singh
 
 ### Hi there! 👋
 
@@ -15,53 +15,28 @@ Highly motivated Computer Science and Engineering graduate with a stellar academ
 ## 🔧 Skills
 
 **Languages**: 
-- Java 
-- JavaScript ES6+ 
-- React JS 
-- SQL 
-- Python
+Java, JavaScript ES6+, React JS, SQL, Python
 
 **Developer Tools**: 
-- Spring Boot
-- Visual Studio Code 
-- GIT 
-- GitHub 
-- Postman 
-- PgAdmin4 
-- MongoDB Compass
-- Google Colab 
-- Jupyter Notebook
+  Visual Studio Code, GIT, GitHub, Postman, PgAdmin4, MongoDB Compass, Google Colab, Jupyter Notebook
 
 **Office Tools**: 
-- MS Word 
-- MS Excel 
-- MS PowerPoint 
-- MS Outlook 
-- ClickUp
+MS Word, MS Excel, MS PowerPoint, MS Outlook, ClickUp
 
 **Soft Skills**: 
-- Leadership 
-- Teamwork 
-- Problem Solving 
-- Quick Learner 
-- Communication 
-- Presentation 
-- Adaptability 
-- Time Management
-- Critical Thinking
+Leadership, Teamwork, Problem Solving, Quick Learner, Communication, Presentation, Adaptability, Time Management, Critical Thinking
 
 **Languages**: 
-- English 
-- Hindi
+Hindi, English 
 
 ---
 
 ## 🏆 Passions
 - Tech Enthusiast
-- Digital Automations
+- Backend Server Logic Design
 - Chess
 - Swimming
-- Traveling
+- Traveling -> Exploring varying architectural and city design styles
 
 ---
 
@@ -91,31 +66,22 @@ Highly motivated Computer Science and Engineering graduate with a stellar academ
 ### [Quiz Application](link)
 - **Tech Stack**: Java, Spring Boot, Spring Data JPA, PostgreSQL
 - **Tools**: IntelliJ IDEA, Postman, pgAdmin4, Git, GitHub
-- The application enables users to take quizzes with multiple-choice questions and receive scores based on their answers.
+- A quiz application enabling users to take quizzes with multiple-choice questions and receive scores based on their answers.
 
 ### [http-status-message NPM Package](link)
 - **Tech Stack**: TypeScript, Node.js, npm
 - **Tools**: Visual Studio Code, Git, GitHub
-- A comprehensive npm package providing tailored HTTP status code messages for web applications and APIs.
-- Developed the getStatusMessage API to return status messages and emojis based on HTTP status codes and specified tones.
-- Supported various message tones, including formal, informal, straightforward, technical, funny, empathetic, educational, and shorts.
-- Enabled clear communication with customizable message tones for different user interactions.
+- An npm package providing tailored HTTP status code messages for web applications and APIs.
 
 ### [Food Ordering Chatbot](link)
 - **Tech Stack**: HTML5, Tailwind CSS, JavaScript ES6+, TypeScript 5+, React JS, Python, Fast API, MySQL
 - **Tools**: Visual Studio Code, Google Dialogflow, Git, GitHub, MySQL Workbench, ngrok
-- Let users place and track orders by integrating a chatbot into the web application.
-- Developed an AI-driven food ordering chatbot with Google Dialogflow for NLP.
-- Implemented dynamic order management with FastAPI and MySQL for real-time tracking and updates.
-- Created a responsive web interface using React.js and TypeScript, featuring order status tracking and contextual prompts.
+- An AI-driven chatbot for food ordering, featuring dynamic order management and a responsive web interface.
 
 ### [WorkNow - Task Management Web App](link)
 - **Tech Stack**: HTML5, CSS3, JavaScript ES6+, TypeScript, React JS, Node JS, Express JS, Redux Toolkit, RESTful APIs, MongoDB Atlas, Tailwind CSS
 - **Tools**: Visual Studio Code, Git, GitHub, Postman, MongoDB Compass
-- WorkNow Web App enables users to efficiently plan, organize, and track tasks and projects. Implemented features such as task creation, real-time updates, and user authentication to enhance productivity and efficiency.
-- Utilized React Hooks to optimize component rendering, resulting in faster load times and smoother user interactions.
-- Integrated Redux Toolkit for centralized state management, resulting in a responsive and scalable application architecture.
-- Implemented secure user authentication and authorization mechanisms, using JWT (JSON Web Tokens) for token-based authentication and role-based access control (RBAC).
+- A web app for efficient task and project management with features like task creation, real-time updates, and user authentication.
 
 ---
 
@@ -154,13 +120,10 @@ Highly motivated Computer Science and Engineering graduate with a stellar academ
 
 - **Email**: [harshitksinghai.official@gmail.com](mailto:harshitksinghai.official@gmail.com)
 - **LinkedIn**: [linkedin.com/in/harshitksinghai](https://www.linkedin.com/in/harshitksinghai)
+- **LeetCode**: [leetcode.com/u/harshitksinghai](https://leetcode.com/u/harshitksinghai/)
 
 ---
 
 ### 🔗 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me!
-
----
-
-*Passionate about technology, digital automations, chess, swimming, and traveling.*
